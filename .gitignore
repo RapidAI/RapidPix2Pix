@@ -1,0 +1,8 @@
+*.pth
+*.onnx
+
+.vscode
+
+*.pyc
+
+__pycache__/
