@@ -1,6 +1,7 @@
 ## RapidPix2Pix
 - 本项目来源于[pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)。
 - [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)是一个很棒很好玩的项目，而且项目中提供了非常清晰明了的说明文档，简直是保姆级别的。
+- pix2pix可以用来做水印擦除，风格迁移等工作。
 - 因为原始的pix2pix项目缺少落地的工程化代码，这也是RapidPix2Pix项目的来源。
 - RapidPix2Pix旨在提供简单高效的推理代码，可以快速部署应用。
 
